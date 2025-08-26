@@ -18,7 +18,7 @@ Một công cụ auto click đơn giản viết bằng Python sử dụng thư v
 ### 1️⃣ Clone về máy
 
 ```bash
-git clone https://github.com/haivoda22ttd/Auto_Click-tool.git
+git clone https://github.com/haivoDA22TTD/Auto_Click-tool.git
 cd Auto-Click
 ```
 ### 2️⃣ Cài đặt thư viện cần thiết
