@@ -33,6 +33,7 @@ python auto_click.py
 ```
 
 🍎 Hướng dẫn chạy Auto Click Tool trên macOS
+
 ✅ Bước 1: Cài Python (nếu chưa có)
 
 Mở Terminal và kiểm tra:
